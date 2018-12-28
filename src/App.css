@@ -21,6 +21,7 @@
 .App-header .site-title {
   font-size: calc(50px + 2vmin);
   font-weight: 700;
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
